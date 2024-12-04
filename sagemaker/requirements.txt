@@ -1,0 +1,5 @@
+wandb
+transformers==4.46.3
+trl==0.12.1
+deepspeed==0.15.4
+huggingface-hub==0.26.3
